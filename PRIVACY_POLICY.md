@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy – Clearance
+---
+
 # Privacy Policy
 
 **Clearance – Aviation Weather App**  

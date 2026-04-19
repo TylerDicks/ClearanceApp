@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Service – Clearance
+---
+
 # Terms of Service
 
 **Clearance – Aviation Weather App**  
